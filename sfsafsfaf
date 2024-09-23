@@ -45,7 +45,7 @@ Lightning1.Size = NumberSequence.new(2.3)
 Lightning1.ZOffset = 1.5
 Lightning1.Rate = 13.5
 Lightning1.Texture = "rbxassetid://11492870634"
-Lightning1.FlipbookMode = Eeeenum.ParticleFlipbookMode.OneShot
+Lightning1.FlipbookMode = Enum.ParticleFlipbookMode.OneShot
 Lightning1.Rotation = NumberRange.new(-360, 360)
 Lightning1.Parent = Attachment
 
